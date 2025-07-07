@@ -1,0 +1,1 @@
+// Main file for JavaScript functionality
